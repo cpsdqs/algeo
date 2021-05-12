@@ -1,0 +1,9 @@
+[package]
+name = "algeo"
+version = "0.1.0"
+authors = ["cpsdqs <cpsdqs@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+cgmath = "0.18"
+roots = "0.0.6"
